@@ -26,9 +26,9 @@
 
       $i = 2;
       $servername = "localhost";
-      $username = "newuser";
-      $password = "simona";
-      $dbname = "portfolio";
+      $username = "***";
+      $password = "***";
+      $dbname = "***";
 
       // Create connection
       $conn = mysqli_connect($servername, $username, $password, $dbname);
